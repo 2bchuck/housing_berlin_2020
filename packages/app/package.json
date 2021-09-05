@@ -1,7 +1,6 @@
 {
   "name": "app",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@heroicons/react": "^1.0.4",
